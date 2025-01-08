@@ -11,6 +11,7 @@ namespace _01_MainSubjects
         static void Main(string[] args)
         {
             #region Yazdırma Komutları
+            //Ekrana yazdırma komutu kullanımı
             //Console.WriteLine("Merhaba Dünya");
             //Console.Write("Selam");
             //Console.WriteLine("***** Yemek Kategorileri *****");
@@ -24,6 +25,8 @@ namespace _01_MainSubjects
             #endregion
 
             #region String Değişkenler
+            
+            //String Değişken kullanım örneği
             //string customerName;
             //string customerSurname;
             //string customerPhone;
@@ -62,6 +65,7 @@ namespace _01_MainSubjects
             #endregion
 
             #region Int Değişkenler
+            //Int değişken kullanım örneği
             //int hamburgerPrice=250;
             //int cokePrice=50;
             //int waterPrice = 20;

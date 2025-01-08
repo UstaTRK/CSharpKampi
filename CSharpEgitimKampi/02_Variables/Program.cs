@@ -104,7 +104,10 @@ namespace _02_Variables
             //tvPrice = 50000;
 
             //int shoesCount,computerCount,chairCount,tvCount;
-
+            
+            //Klavyeden veri girişinde gelen değer sistem tarafından String olarak kabul edilir.
+            //Klavyeden okunan değeri String haricindeki tüm değişkenlere aktarırken Parse ifadesini kullanmalıyız.
+            
             //Console.Write("Lütfen aldığınız ayakkabı sayısını girin..:");
             //shoesCount =int.Parse(Console.ReadLine());
 
