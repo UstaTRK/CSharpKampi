@@ -1,0 +1,7 @@
+C:\Users\Usta\source\repos\CSharpEgitimKampi\07_Foreach Loop\bin\Debug\07_Foreach Loop.exe.config
+C:\Users\Usta\source\repos\CSharpEgitimKampi\07_Foreach Loop\bin\Debug\07_Foreach Loop.exe
+C:\Users\Usta\source\repos\CSharpEgitimKampi\07_Foreach Loop\bin\Debug\07_Foreach Loop.pdb
+C:\Users\Usta\source\repos\CSharpEgitimKampi\07_Foreach Loop\obj\Debug\07_Foreach Loop.csproj.AssemblyReference.cache
+C:\Users\Usta\source\repos\CSharpEgitimKampi\07_Foreach Loop\obj\Debug\07_Foreach Loop.csproj.CoreCompileInputs.cache
+C:\Users\Usta\source\repos\CSharpEgitimKampi\07_Foreach Loop\obj\Debug\07_Foreach Loop.exe
+C:\Users\Usta\source\repos\CSharpEgitimKampi\07_Foreach Loop\obj\Debug\07_Foreach Loop.pdb
