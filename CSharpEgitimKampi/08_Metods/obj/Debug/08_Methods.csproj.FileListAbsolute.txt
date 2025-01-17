@@ -1,0 +1,7 @@
+C:\Users\Usta\source\repos\CSharpEgitimKampi\08_Metods\bin\Debug\08_Metods.exe.config
+C:\Users\Usta\source\repos\CSharpEgitimKampi\08_Metods\bin\Debug\08_Metods.exe
+C:\Users\Usta\source\repos\CSharpEgitimKampi\08_Metods\bin\Debug\08_Metods.pdb
+C:\Users\Usta\source\repos\CSharpEgitimKampi\08_Metods\obj\Debug\08_Methods.csproj.AssemblyReference.cache
+C:\Users\Usta\source\repos\CSharpEgitimKampi\08_Metods\obj\Debug\08_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Usta\source\repos\CSharpEgitimKampi\08_Metods\obj\Debug\08_Metods.exe
+C:\Users\Usta\source\repos\CSharpEgitimKampi\08_Metods\obj\Debug\08_Metods.pdb
