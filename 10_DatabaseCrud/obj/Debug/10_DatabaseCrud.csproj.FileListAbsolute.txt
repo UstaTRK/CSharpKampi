@@ -1,7 +1,0 @@
-C:\Users\Usta\source\repos\CSharpEgitimKampi\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.exe.config
-C:\Users\Usta\source\repos\CSharpEgitimKampi\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.exe
-C:\Users\Usta\source\repos\CSharpEgitimKampi\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.pdb
-C:\Users\Usta\source\repos\CSharpEgitimKampi\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.csproj.AssemblyReference.cache
-C:\Users\Usta\source\repos\CSharpEgitimKampi\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.csproj.CoreCompileInputs.cache
-C:\Users\Usta\source\repos\CSharpEgitimKampi\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.exe
-C:\Users\Usta\source\repos\CSharpEgitimKampi\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.pdb
