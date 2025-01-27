@@ -6,3 +6,5 @@
 06_Arrays = Dizi tanımlamaları ve örnekler.
 07_Foreach Loop = Foreach döngüsü ve örnekler.
 08_Methods = Geriye değer döndürmeyen String ve Int metot kullanımı, geriye değer döndüren String ve Int metod kullanımı ve örnekler.
+09_Database_Project=Sql Veri Tabanı İlk Örneği
+10_Database_Crud=Sql Veri Tabanı Kayıt ekleme, Silme, Güncelleme ve Listeleme örnekleri
